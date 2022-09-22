@@ -31,7 +31,7 @@ class _HomescreenState extends State<Homescreen>
               text: 'CHATS',
             ),
            const Tab(
-              text: 'STATUS',
+              text: 'STATuS',
             ),
             const Tab(
              text: 'CALL', 
